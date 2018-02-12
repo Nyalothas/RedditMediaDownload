@@ -1,6 +1,6 @@
 # Reddit Media Download
 
-Allows easier downloading of videos that use the embeded reddit player.
+Allows easier downloading of videos that use the embedded Reddit player.
 
 ### Credits
 
